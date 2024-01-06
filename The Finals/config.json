@@ -1,4 +1,6 @@
 {
+  "Author": "AkiraDev",
+  "Description": "This Module will shock you for if you die OR if your entire team dies!"
   "enabled": true,
   "images": {
     "Team_Death.png": {
